@@ -1,0 +1,44 @@
+h3 {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-family: arial;
+  font-size:  35;
+}
+
+p.one {
+  font-family: arial;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+span{
+  font-family: Times New Roman;
+  color: purple;
+  font-size: 20px;
+  padding: 10px;
+}
+div{
+	font-family: arial;
+  color: orange;
+  font-size: 20px;
+  padding:  10px;
+}
+ul li{
+	font-family: Times New Roman;
+  color: blue;
+  font-size: 15px;
+  padding: 10px;
+	
+}
+ol li{
+	font-family: arial;
+  color: red;
+  font-size: 15px;
+  padding: 10px;
+	
+}
+
+
+
+
+
+
